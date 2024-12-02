@@ -1,0 +1,5 @@
+Þrjár geojson skrár sem innihalda áætluð hnit fyrir stopp Borgarlínunnar, nöfn stoppustöðvanna og hvaða litir kerfisins er fyrirhugað að muni stoppa á hverri stöð. Litirnir eru rauður, grænn, appelsínugulur, blár og fjólublár. 
+
+Skrárnar eru byggðar á þeim kortum sem sjá má hér: https://www.borgarlinan.is/leidanet#naestu-borgarlinuleidir
+
+Þetta eru ekki opinber gögn um hnit stoppustöðvanna og voru þær teiknaðar handvirkt út frá þeim upplýsingum sem voru aðgengilegar í byrjun Nóvember 2024.

@@ -1,0 +1,5 @@
+Number of working people (all ages) according to pay-as-you-earn data January 1st each year (2008 - 2024). 
+
+ar: Year
+smasvaedi: Four digit small area number
+fjoldi: Number og working people

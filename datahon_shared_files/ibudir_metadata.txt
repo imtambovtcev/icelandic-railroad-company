@@ -1,0 +1,8 @@
+Information about the stock of dwellings by small areas as it was in the beginning of November of 2024 from the Housing and Construction Authority.
+
+smasvaedi: Ordererd number of small areas.
+staerdarflokkur: Size bands of dwellings. Divided into: 1 = 0-45 square meters; 2 = 45-70 square meters; 3 = 70-95 square meters; 4 = 95-120 square meters; 5 = 120-160 square meters; 6 = larger than 160 square meters
+fjherb: Number of rooms in the dwelling
+svfnr: The number of the municipality where the dewlling is.
+framvinda: Building status of the dwelling, either Fullbúið (completed) or ófullbúið (not completed).
+Fjöldi: The number of dwellings by the aggregation variables.

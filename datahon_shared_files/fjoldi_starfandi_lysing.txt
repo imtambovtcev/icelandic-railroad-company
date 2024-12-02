@@ -1,0 +1,5 @@
+Fjöldi starfandi (allur aldur) samkvæmt staðgreiðslugögnun 1. janúar hvert ár (2008 - 2024). 
+
+ar: Ártal
+smasvaedi: Fjögurra stafa smásvæðanúmer
+fjoldi: Fjöldi starfandi

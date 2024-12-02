@@ -1,0 +1,5 @@
+Three geojson files containing the approximate coordinates of the stops of the proposed cityline system, the names of the stops and to which lines of the cityline system are planned to run through each of the stops. The lines are red, green, orange, blue and purple.
+
+The maps are based on the maps shown here: https://www.borgarlinan.is/leidanet#naestu-borgarlinuleidir
+
+Note that this is not an official map of the coordinates and was manually drawn based on information available in the beginning of November 2024.

@@ -1,0 +1,8 @@
+Upplýsingar um íbúðastokk eftir smásvæðum eins og hann stóð í byrjun nóvember 2024 frá Húsnæðis- og Mannvirkjastofnun.
+
+smasvaedi: Raðnúmer smásvæða.
+staerdarflokkur: Stærðarflokkur íbúða. Skiptist í: 1 = 0-45 fermetrar; 2 = 45-70 fermetrar; 3 = 70-95 fermetrar; 4 = 95-120 fermetrar; 5 = 120-160 fermetrar; 6 = stærri en 160 fermetrar
+fjherb: Fjöldi herbergja í íbúðinni
+svfnr: Sveitarfélaganúmer þar sem íbúðin er staðsett. 
+framvinda: Staða húsnæðisins. Skiptist í Fullbúið og ófullbúið.
+Fjöldi: Fjöldi íbúða eftir flokkunarbreytum.

@@ -1,0 +1,6 @@
+The population on January 1st each year (2008 - 2024) by small areas, age groups and binary sex. Due to the small numbers of the gender neutral group, it was discarded from the data.
+
+ar: Year
+smasvaedi: Four digit small area number
+kyn: 1= Men; 2 = Women. 
+aldursflokkur: Five year age groups from calculated by age in years on January 1st each year. The youngest age group is 0-4 year-olds, the oldest is 90 years and older.

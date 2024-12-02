@@ -1,0 +1,19 @@
+Information about the number of building sites by small areas as it was in the beginning of November of 2024 from the Housing and Construction Authority.
+
+Sveitarfélag: The name of the municipality where the building site is situated.
+Tegundlóða: The type of building planned for the building site in question.
+Lóðasvæði: The address of the building site.
+Athugasemdir: Further comments about the building site.
+Smásvæði: THe ordered number of the small area where the building site is situated.
+2023: The number of dwellings completed on the building site in 2023.
+2024: The number of dwellings completed on the building site in 2024.
+2025: The number of dwellings completed on the building site in 2025.
+2026: The number of dwellings completed on the building site in 2026.
+2027: The number of dwellings completed on the building site in 2027.
+2028: The number of dwellings completed on the building site in 2028.
+2029: The number of dwellings completed on the building site in 2029.
+2030: The number of dwellings completed on the building site in 2030.
+2031: The number of dwellings completed on the building site in 2031.
+2032: The number of dwellings completed on the building site in 2032.
+2033: The number of dwellings completed on the building site in 2033.
+Samtals: The total number of dwellings planned for the building site.

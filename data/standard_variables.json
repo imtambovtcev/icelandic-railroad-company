@@ -1,0 +1,18 @@
+{
+    "map_limits": {
+        "north": 64.188968,
+        "south": 64.033992,
+        "east": -21.640345,
+        "west": -22.083955
+    },
+    "grid_size": {
+        "unit": "meters",
+        "value": 100
+    },
+    "standard_variables": {
+        "cutoff_radius": {
+            "unit": "meters",
+            "value": 400
+        }
+    }
+}

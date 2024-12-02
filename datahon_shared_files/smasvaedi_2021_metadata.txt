@@ -1,0 +1,19 @@
+Minor Statistical Output Areas (MSOA, small areas)
+
+Due to the sparsely populated country and huge differences in the population sizes of the administrative units, Statistics Iceland has added a new small area level to the hierarchical regional classification in preparation for the 2021 Census. The new level is labeled as Minor Statistical Output Areas (MSOA). There are in total 206 MSOA defined, with an average population in the range 1,700 to 1,800 persons and no area having less population than 900 persons, and no area exceeding 3,500, for the census year 2021. For other years the population size of the areas can differ somewhat from these numbers.
+
+There are 5 steps in the Regional classification:
+
+1 - Iceland
+2 - Two NUTS3 Statistical regions
+3 - Four Statistical Regions – 2 in the capital region and 2 in the rural areas
+4 - Forty-two (42) Statistical Output Areas (SOA) – 42 areas, 13 in Reykjavik, 11 in the Reykjavik surrounding areas, 9 in the South Region, and 9 in the North region
+5 - Two hundred and six (206) Minor Statistical Output Areas (MSOA) –each SOA partitioned further into 2 to 11 MSOA.
+
+With the help of the Minor Statistical Output Areas Statistics Iceland is able to publish detailed statistics for smaller areas than previously possible without skipping areas or deleting data due to disclosure concerns.
+
+While the MSOA are defined in preparation for the 2021 Census of the Population and Housing, a special version has been developed for classifying data in the 2011 Census, with 183 MSOA, which are but for 23 areas identical to the 2021 version.
+
+The MSOA were developed with financial aid from the European Commission, in cooperation with the Icelandic Regional Development Institution and the assistance of the Institute of Nature Research and Míla ehf.
+
+The metadata is taken from this website: https://gatt.lmi.is/geonetwork/srv/eng/catalog.search#/metadata/26cf063e-51b3-459e-afd2-934b55250d48

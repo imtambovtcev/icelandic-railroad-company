@@ -1,0 +1,19 @@
+Upplýsingar um lóðir eftir smásvæðum eins og þær stóðu í byrjun nóvember 2024 frá Húsnæðis- og Mannvirkjastofnun.
+
+Sveitarfélag: Nafn sveitarfélags þar sem lóðin stendur.
+Tegundlóða: Tegund byggingar sem fyrirhuguð er á viðkomandi lóð. 
+Lóðasvæði: Heimilisfang lóðarinnar. 
+Athugasemdir: Frekari upplýsingar um lóðina.
+Smásvæði: Raðnúmer smásvæðis þar sem lóðin stendur.
+2023: Fjöldi íbúða sem lokið verður að byggja á viðkomandi lóð árið 2023.
+2024: Fjöldi íbúða sem lokið verður að byggja á viðkomandi lóð árið 2024.
+2025: Fjöldi íbúða sem lokið verður að byggja á viðkomandi lóð árið 2025.
+2026: Fjöldi íbúða sem lokið verður að byggja á viðkomandi lóð árið 2026.
+2027: Fjöldi íbúða sem lokið verður að byggja á viðkomandi lóð árið 2027.
+2028: Fjöldi íbúða sem lokið verður að byggja á viðkomandi lóð árið 2028.
+2029: Fjöldi íbúða sem lokið verður að byggja á viðkomandi lóð árið 2029.
+2030: Fjöldi íbúða sem lokið verður að byggja á viðkomandi lóð árið 2030.
+2031: Fjöldi íbúða sem lokið verður að byggja á viðkomandi lóð árið 2031.
+2032: Fjöldi íbúða sem lokið verður að byggja á viðkomandi lóð árið 2032.
+2033: Fjöldi íbúða sem lokið verður að byggja á viðkomandi lóð árið 2033.
+Samtals: Heildarfjöldi íbúða sem fyrirhugað er að byggður verði á viðkomandi lóð.

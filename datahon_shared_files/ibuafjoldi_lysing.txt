@@ -1,0 +1,6 @@
+Íbúafjöldi fyrsta janúar hvert ár (2008 - 2024) eftir smásvæðum, aldursflokkum og tvíkosta kyni. Sökum smæðar hópsins eru kynhlutlaus ekki með í gögnunum.
+
+ar: Ártal
+smasvaedi: Fjögurra stafa smásvæðanúmer
+kyn: 1= Karl; 2 = Kona. 
+aldursflokkur: Fimm ára aldursflokkar út frá aldri 1. janúar hvert ár. Yngsti aldurslflokkur er 0-4 ára, sá elsti er 90 ára og eldri.

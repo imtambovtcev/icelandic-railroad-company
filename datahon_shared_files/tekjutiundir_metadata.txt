@@ -1,0 +1,5 @@
+Income deciles based on pay-as-you-earn data from January 1st each year (2008 - 2024), calculated for the country as a whole. Income deciles are calculated by ordering the population by income from the lowest to the highest and dividing it into ten equally sized groups. 
+
+ar: Year
+smasvaedi: Four digit small area number
+tekjutiund: The income decile into which the individuals falls under. The lowest income decile is 1 the highest is 10. 

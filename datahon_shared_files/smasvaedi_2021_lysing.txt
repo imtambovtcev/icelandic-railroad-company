@@ -1,0 +1,19 @@
+Smásvæði
+
+Ísland er dreifbýlt land, en þéttbýlt á höfuðborgarsvæðinu. Hefðbundin skipting landsins í landsvæði og sveitarfélög býður ekki upp á samanburðarhæf svæði hvað varðar hagskýrslugerð. Hagstofan hefur því aukið við flokkunarkerfi fyrir hagskýrslusvæði með því að bæta við smásvæðum sem hafa að meðaltali 1.700 til 1.800 íbúa. Smásvæðin mynda fimmta stigið í flokkunarkerfi, með því að hluta talningarsvæðin frekar niður. Alls eru smásvæðin 206 með rúmlega 1.700 manns meðalíbúafjölda, og íbúafjöldanum haldið á bilinu 900 til 3.500 manns, en sem næst meðaltalinu fyrir árið 2021 (viðmiðunarár Manntalsins). Fyrir önnur ár geta svæðin verið fámennari.
+
+Þrepin í flokkunarkerfinu eru þessi.
+
+1 - Ísland allt
+2 - Tvö hagskýrslusvæði (NUTS3) – höfuðborgarsvæði og landsbyggð
+3 - Fjórir landshlutar – tveir á höfuðborgarsvæðinu og tveir á landsbyggðinni
+4 - Alls 42 talningarsvæði – 13 í Reykjavík, 11 í Nágrenni Reykjavíkur, 9 á Suðursvæði og 9 á Norðursvæði.
+5 - Alls 206 smásvæði – hverju talningarsvæði skipt upp í 2 til 11 smásvæði.
+
+Með smásvæðaskiptingunni verður mögulegt að birta ítarlegar hagskýrslur fyrir smærri svæði en áður án þess að þurfa að sleppa úr svæðum eða eyða tölum vegna fámennis.
+
+Smásvæðin eru skilgreind vegna þarfa manntalsins 2021, en einnig hefur verið gerð sérstök útgáfa fyrir manntalið 2011, með 183 svæðum sem fylgja að mestu sömu mörkum.
+
+Smásvæðaflokkunin var unnin í samstarfi við Byggðastofnun, með fjárhagslegum stuðningi frá Evrópusambandinu. Þá naut Hagstofan aðstoðar Náttúrufræðistofnun ásamt afnotum af gögnum frá Landmælingum og Mílu ehf
+
+Þessi lýsigögn eru tekin héðan: https://gatt.lmi.is/geonetwork/srv/eng/catalog.search#/metadata/26cf063e-51b3-459e-afd2-934b55250d48

@@ -1,0 +1,5 @@
+Tekjutíundir byggðar á staðgreiðslugögnum fyrir janúar hvert ár (2008 - 2024), reiknaðar fyrir landið í heild sinni. Tíundarflokkar eru reiknaðir með því að raða öllu þýðinu í röð eftir tekjum frá þeim lægstu til þeirra hæstu og skipta því í tíu jafnstóra hópa.
+
+ar: Ártak
+smasvaedi: Fjögurra stafa smásvæðanúmer
+tekjutiund: Tekjutíundin sem viðkomandi tilheyrir. Lægsta tekjutíundin er 1, sú hæsta er 10.
