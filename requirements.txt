@@ -1,0 +1,10 @@
+matplotlib
+numpy
+pandas
+shapely
+networkx
+geopandas
+contextily
+osmnx
+geojson
+geopy
