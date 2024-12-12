@@ -126,6 +126,18 @@ To visualize the generated GeoJSON data:
 1. Use [Foursquare Studio](https://studio.foursquare.com) or another GeoJSON visualization tool.
 2. Load the output files produced in the notebooks to create interactive maps and visualizations.
 
+#### Examples
+Original population density
+![original_population_density](image/README/91e582aa-f7ee-4bc7-8748-5844f70e00cf.png)
+Postprocessed population density
+![postprocessed_population_density](image/README/218aae58-d1b2-49ee-9d58-fbe5a29f314e.png)
+Places of interest
+![places_of_interest](image/README/04d7a9bb-6d99-474c-bcc8-331ce1ce329b.png)
+Score field and initial stations distribution
+![score_field](image/README/4a39ef92-0b22-4e76-9bd7-f9616f7257fd.png)
+Final plan for the year 2030
+![final_plan](image/README/0d4d6095-f949-40b5-beb0-1cb158a1fcb9.png)
+
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
