@@ -221,3 +221,68 @@ def railroad_geojson_to_networkx(filename):
             graph.add_edge(end, start, **inverse_edge_data)
 
     return graph
+
+
+def find_closest_point_id(x, y, x_coords, y_coords):
+    """
+    Finds the ID of the closest point in the grid for a given x and y coordinate,
+    without requiring a DataFrame.
+
+    Parameters:
+    - x: float, the x-coordinate (longitude)
+    - y: float, the y-coordinate (latitude)
+    - x_coords: sorted array of unique longitudes
+    - y_coords: sorted array of unique latitudes
+
+    Returns:
+    - closest_id: int, the ID of the closest point in the flattened meshgrid
+    """
+    # Find the indices of the closest x and y coordinates
+    x_idx = np.argmin(np.abs(np.array(x_coords) - x))
+    y_idx = np.argmin(np.abs(np.array(y_coords) - y))
+
+    # Convert 2D grid indices to 1D index
+    num_x = len(x_coords)
+    closest_id = y_idx * num_x + x_idx
+
+    return closest_id
+
+
+def get_interest_matrixes_from_graph_with_scores(G):
+    # Step 1: Extract node scores from the graph
+    nodes = list(G.nodes)
+    n = len(nodes)
+
+    # Create an ID-to-index mapping for the adjacency matrices
+    node_idx = {node: i for i, node in enumerate(nodes)}
+
+    # Initialize matrices
+    common_interest_matrix = np.zeros((n, n))
+    tourist_matrix = np.zeros((n, n))
+
+    # Extract the total score and tourism score for each node
+    total_scores = {node: G.nodes[node].get(
+        "total_normalized_score", 0) for node in nodes}
+    tourism_scores = {node: G.nodes[node].get(
+        "Tourism_score", 0) for node in nodes}
+
+    # Step 2: Fill matrices based on edges
+    for u, v in G.edges:
+        i, j = node_idx[u], node_idx[v]
+
+        # Common Interest Matrix: Depends only on the "to" node
+        common_interest_matrix[i, j] = total_scores[v]
+
+        # Tourist Matrix: Product of tourism scores of both nodes
+        tourist_matrix[i, j] = tourism_scores[u] * tourism_scores[v]
+
+    # Convert to Pandas DataFrame for readability
+    common_interest_df = pd.DataFrame(
+        common_interest_matrix, index=nodes, columns=nodes)
+    tourist_df = pd.DataFrame(tourist_matrix, index=nodes, columns=nodes)
+
+    # Fill the diagonal values of the matrices with zeros
+    np.fill_diagonal(common_interest_matrix, 0)
+    np.fill_diagonal(tourist_matrix, 0)
+
+    return common_interest_df, tourist_df, common_interest_matrix, tourist_matrix
